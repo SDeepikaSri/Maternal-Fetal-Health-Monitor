@@ -46,6 +46,3 @@ A low-cost maternal–fetal health monitoring system designed for continuous pre
 * Deploy TinyML model on-device for offline inference.
 * Validate the complete system with real-time physiological data.
 
-## Note
-
-This repository currently contains the software implementation, machine learning pipeline, backend services, and application logic. Hardware implementation and embedded firmware will be added upon completion.
