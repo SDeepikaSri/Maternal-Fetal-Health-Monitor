@@ -35,7 +35,6 @@ A low-cost maternal–fetal health monitoring system designed for continuous pre
 
 * ✅ Machine learning model trained and evaluated.
 * ✅ Backend APIs and monitoring workflow implemented.
-* ✅ Mobile/Web interface developed.
 * ✅ System architecture and communication workflow designed.
 * 🚧 Battery-less sensing patches and ESP32 hardware integration are under development.
 
